@@ -1,0 +1,28 @@
+{
+  "node": {
+    "7f0e5f1df311ab107f6c5ff40121a6fd687220b674": {
+      "workers": {
+        "app/login/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5Callnode%5C%5Ctext-imageer%5C%5Capp%5C%5Ccontrollers%5C%5CuserControllers.js%22%2C%5B%5B%227f0e5f1df311ab107f6c5ff40121a6fd687220b674%22%2C%22createRegister%22%5D%2C%5B%227f639a0515e269f5ddbdb97c82317d369c1f316f6b%22%2C%22signin%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/login/page": "action-browser"
+      }
+    },
+    "7f639a0515e269f5ddbdb97c82317d369c1f316f6b": {
+      "workers": {
+        "app/login/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5Callnode%5C%5Ctext-imageer%5C%5Capp%5C%5Ccontrollers%5C%5CuserControllers.js%22%2C%5B%5B%227f0e5f1df311ab107f6c5ff40121a6fd687220b674%22%2C%22createRegister%22%5D%2C%5B%227f639a0515e269f5ddbdb97c82317d369c1f316f6b%22%2C%22signin%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/login/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "IPsCDmXyJvPO6qOVs6S3c4gkKIn+KOsyhOJ7QG9zvZc="
+}

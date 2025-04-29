@@ -1,0 +1,21 @@
+body{
+    
+    padding:2em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+  
+}
+
+.login-reg-form{
+  
+    justify-content: center;
+
+}
+
+.lr-form input{
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+    border-bottom: 2px solid rgb(221, 74, 221);
+   
+}
